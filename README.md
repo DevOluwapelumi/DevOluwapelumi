@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on any Project...
 - 📫 How to reach me 👇👇👇...
                            ***Facebook
+                           ***WhatsApp
 
 <!---
 DevOluwapelumi/DevOluwapelumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
