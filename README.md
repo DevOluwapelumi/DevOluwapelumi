@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any Project...
 - 📫 How to reach me 👇👇👇...
                            ***Facebook --- profile.php?id=100077634472104
-                           ***WhatsApp
+                           ***WhatsApp --- wa.me/+2347047142093
                            ***LinkedIn
 
 <!---
