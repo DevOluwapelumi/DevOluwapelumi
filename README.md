@@ -6,6 +6,7 @@
                            ***Facebook --- profile.php?id=100077634472104
                            ***WhatsApp --- wa.me/+2347047142093
                            ***LinkedIn --- in/victor-oluwadarasimi
+                           ***Twitter
 
 <!---
 DevOluwapelumi/DevOluwapelumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
