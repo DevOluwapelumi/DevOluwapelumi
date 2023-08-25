@@ -5,7 +5,7 @@
 - 📫 How to reach me 👇👇👇...
                            ***Facebook --- profile.php?id=100077634472104
                            ***WhatsApp --- wa.me/+2347047142093
-                           ***LinkedIn --- in/victor-oluwadarasimi
+                           ***LinkedIn --- https://www.linkedin.com/in/victor-oluwadarasimi/
                            ***Twitter  --- https://twitter.com/Oluwapemzzy16
                            ***Tiktok   --- https://tiktok.com/Oluwapemzzy16 
 
