@@ -7,7 +7,7 @@
                            ***WhatsApp --- wa.me/+2347047142093
                            ***LinkedIn --- https://www.linkedin.com/in/victor-oluwadarasimi/
                            ***Twitter  --- https://twitter.com/Oluwapemzzy16
-                           ***Tiktok   --- https://tiktok.com/Oluwapemzzy16 
+                           ***Tiktok   --- https://www.tiktok.com/@dev_oluwapelumi?lang=en
 
 <!---
 DevOluwapelumi/DevOluwapelumi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
