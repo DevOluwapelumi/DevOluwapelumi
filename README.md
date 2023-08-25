@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any Project...
 - 📫 How to reach me 👇👇👇...
                            ***Facebook --- https://web.facebook.com/profile.php?id=100077634472104
-                           ***WhatsApp --- wa.me/+2347047142093
+                           ***WhatsApp --- https://wa.me/+2347047142093
                            ***LinkedIn --- https://www.linkedin.com/in/victor-oluwadarasimi/
                            ***Twitter  --- https://twitter.com/Oluwapemzzy16
                            ***Tiktok   --- https://www.tiktok.com/@dev_oluwapelumi?lang=en
