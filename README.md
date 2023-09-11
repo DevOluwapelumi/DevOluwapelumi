@@ -9,7 +9,8 @@
                            ***Twitter  --- https://twitter.com/Oluwapemzzy16
                            ***Tiktok   --- https://www.tiktok.com/@dev_oluwapelumi?lang=en
                            ***GitHub   --- https://github.com/DevOluwapelumi
-                           ***Call     --- +2347047142093
+                           ***Call     --- +2347047142093 
+                           ***G-mail   --- victoroluwadarasimi16@gmail.com
   
 <!---
 DevOluwapelumi/DevOluwapelumi is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
