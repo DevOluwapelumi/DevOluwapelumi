@@ -1,4 +1,14 @@
 - 👋 Hi, I’m @DevOluwapelumi! How can I assist you today?
+  
+          In this digital world, I boldly zoom in.
+          A name unique, a presence bright,
+          In the virtual realm, I take my flight.
+          
+          With keystrokes, I craft my prose,
+          Unveiling thoughts that no one knows.
+          Through words, I weave a poetic rhyme,
+          @DevOluwapelumi, standing the test of time.
+
 - 👀 I’m interested in Coding and Collaboration...
 - 🌱 I’m currently learning Software Development...
 - 💞️ I’m looking to collaborate on any Project...
