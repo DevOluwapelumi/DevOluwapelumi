@@ -19,7 +19,7 @@
                            ***Twitter  --- https://twitter.com/Oluwapemzzy16
                            ***Tiktok   --- https://www.tiktok.com/@dev_oluwapelumi?lang=en
                            ***GitHub   --- https://github.com/DevOluwapelumi
-                           ***Dev.to   --- https://dev.to/devoluwapelumi
+                           ***DEV      --- https://dev.to/devoluwapelumi
                            ***Call     --- +2347047142093 
                            ***G-mail   --- victoroluwadarasimi16@gmail.com
   
