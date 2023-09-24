@@ -56,7 +56,7 @@
 - 💞️ I’m looking to collaborate on any Project...
 
           In the canvas of creation, a project takes its form,
-          A vision born of dreams, where ideas will swarm.
+          A vision is born of dreams, where ideas will swarm.
           It's a journey, a story, waiting to be unfurled,
           A fusion of passion and plans, changing the world.
           
@@ -67,7 +67,7 @@
           
           With teamwork and vision, we breathe it to life,
           Navigating obstacles, embracing the strife.
-          A project's a testament to what we can achieve,
+          A project is a testament to what we can achieve,
           When we dare to believe, and in purpose, we cleave.
           
           So, in the realm of possibilities, we dare to embark,
