@@ -10,6 +10,27 @@
           @DevOluwapelumi, standing the test of time.
 
 - 👀 I’m interested in Coding and Collaboration...
+
+        In the realm of ones and zeros, we embark,
+        Coding is the language of the digital spark.
+        Alone, we craft lines in solitude's grace,
+        But collaboration is the secret to embrace.
+        
+        Together, we dance in a virtual ballet,
+        Ideas entwined in the code we convey.
+        Collaboration, where brilliance takes flight,
+        Uniting our skills in the digital night.
+        
+        With each line we write, we're not on our own,
+        Through teamwork and synergy, our code has grown.
+        Through GitHub and Slack, we link hearts and minds,
+        Coding and collaboration, the future unwinds.
+        
+        So let's break down the walls of isolation's domain,
+        In the world of coding, we're in it for the same gain.
+        Together we code, together we thrive,
+        In the tapestry of collaboration, we'll truly survive.
+
 - 🌱 I’m currently learning Software Development..."Creating digital solutions."
   
         In the realm of code, where ideas take flight,
