@@ -1,3 +1,4 @@
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevOluwapelumi&show_icons=true&theme=dark)
 - 👋 Hi, I’m @DevOluwapelumi! How can I assist you today?
   
           In this digital world, I boldly zoom in.
