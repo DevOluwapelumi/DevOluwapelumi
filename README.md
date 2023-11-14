@@ -5,7 +5,7 @@
  <h2 align="center"> #DevOluwapelumi's GitHub Readme Stats... @MultiMarkTechPro</h2>
 </p>
 
-- 👋 Hi, I’m @DevOluwapelumi! How can I assist you today?
+### 👋 Hi, I’m @DevOluwapelumi! How can I assist you today?
 
           In this digital world, I boldly zoom in.
           A name unique, a presence bright,
@@ -16,7 +16,7 @@
           Through words, I weave a poetic rhyme,
           @DevOluwapelumi, standing the test of time.
 
-- 👀 I’m interested in Coding and Collaboration...
+### 👀 I’m interested in Coding and Collaboration...
 
           In the realm of ones and zeros, we embark,
           Coding is the language of the digital spark.
@@ -38,7 +38,7 @@
           Together we code, together we thrive,
           In the tapestry of collaboration, we'll truly survive.
 
-- 🌱 I’m currently learning Software Development..."Creating digital solutions."
+### 🌱 I’m currently learning Software Development..."Creating digital solutions."
   
           In the realm of code, where ideas take flight,
           We craft the future, day and night, one line at a time.
