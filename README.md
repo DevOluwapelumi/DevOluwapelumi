@@ -60,7 +60,7 @@
           We build the bridges to the future, make the digital world spin,
           As software developers, we'll always strive to win.
   
-- 💞️ I’m looking to collaborate on any Project...
+### 💞️ I’m looking to collaborate on any Project...
 
           In the canvas of creation, a project takes its form,
           A vision is born of dreams, where ideas will swarm.
@@ -82,16 +82,16 @@
           For every project's a legacy we'll leave behind,
           A testament to human potential, in every design.
   
-- 📫 How to reach me 👇👇👇...
-                           ***Facebook --- https://web.facebook.com/profile.php?id=100077634472104
-                           ***WhatsApp --- https://wa.me/+2347047142093
-                           ***LinkedIn --- https://www.linkedin.com/in/victor-oluwadarasimi/
-                           ***Twitter  --- https://twitter.com/Oluwapemzzy16
-                           ***Tiktok   --- https://www.tiktok.com/@dev_oluwapelumi?lang=en
-                           ***GitHub   --- https://github.com/DevOluwapelumi
-                           ***DEV      --- https://dev.to/devoluwapelumi
-                           ***Call     --- +2347047142093 
-                           ***G-mail   --- victoroluwadarasimi16@gmail.com
+ ### 📫 How to reach me 👇👇👇...
+   ### Facebook --- https://web.facebook.com/profile.php?id=100077634472104
+   ### WhatsApp --- https://wa.me/+2347047142093
+   ### LinkedIn --- https://www.linkedin.com/in/victor-oluwadarasimi/
+   ###Twitter  --- https://twitter.com/Oluwapemzzy16
+   ###Tiktok   --- https://www.tiktok.com/@dev_oluwapelumi?lang=en
+   ###GitHub   --- https://github.com/DevOluwapelumi
+   ###DEV      --- https://dev.to/devoluwapelumi
+   ###Call     --- +2347047142093 
+   ###G-mail   --- victoroluwadarasimi16@gmail.com
 
       #Coding
       #Collaboration
