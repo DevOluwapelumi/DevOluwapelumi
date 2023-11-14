@@ -86,12 +86,12 @@
    ### Facebook --- https://web.facebook.com/profile.php?id=100077634472104
    ### WhatsApp --- https://wa.me/+2347047142093
    ### LinkedIn --- https://www.linkedin.com/in/victor-oluwadarasimi/
-   ###Twitter  --- https://twitter.com/Oluwapemzzy16
-   ###Tiktok   --- https://www.tiktok.com/@dev_oluwapelumi?lang=en
-   ###GitHub   --- https://github.com/DevOluwapelumi
-   ###DEV      --- https://dev.to/devoluwapelumi
-   ###Call     --- +2347047142093 
-   ###G-mail   --- victoroluwadarasimi16@gmail.com
+   ### Twitter  --- https://twitter.com/Oluwapemzzy16
+   ### Tiktok   --- https://www.tiktok.com/@dev_oluwapelumi?lang=en
+   ### GitHub   --- https://github.com/DevOluwapelumi
+   ### DEV      --- https://dev.to/devoluwapelumi
+   ### Call     --- +2347047142093 
+   ### G-mail   --- victoroluwadarasimi16@gmail.com
 
       #Coding
       #Collaboration
