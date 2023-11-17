@@ -91,7 +91,7 @@
    ### GitHub   --- https://github.com/DevOluwapelumi
    ### DEV      --- https://dev.to/devoluwapelumi
    ### Call     --- +234 704 714 2093 
-   ### G-mail   --- victoroluwadarasimi16@gmail.com
+   ### E-mail   --- victoroluwadarasimi16@gmail.com
 
       #Coding
       #Collaboration
