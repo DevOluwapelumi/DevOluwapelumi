@@ -91,10 +91,10 @@
   
  ### 📫 How to reach me 👇👇👇...
    ###  Linktree --- https://linktr.ee/oluwapelumi16
-   ### Facebook --- https://web.facebook.com/profile.php?id=100077634472104
-   ### WhatsApp --- https://wa.me/+2347047142093
-   ### LinkedIn --- https://www.linkedin.com/in/victor-oluwadarasimi/
-   ### Twitter  --- https://twitter.com/Oluwapemzzy16
+   ###  Facebook --- https://web.facebook.com/profile.php?id=100077634472104
+   ###  WhatsApp --- https://wa.me/+2347047142093
+   ###  LinkedIn --- https://www.linkedin.com/in/victor-oluwadarasimi/
+   ###  Twitter  --- https://twitter.com/Oluwapemzzy16
    ### Tiktok   --- https://www.tiktok.com/@dev_oluwapelumi?lang=en
    ### GitHub   --- https://github.com/DevOluwapelumi
    ### DEV      --- https://dev.to/devoluwapelumi
