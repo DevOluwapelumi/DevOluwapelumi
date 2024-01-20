@@ -95,11 +95,11 @@
    ###  WhatsApp --- https://wa.me/+2347047142093
    ###  LinkedIn --- https://www.linkedin.com/in/victor-oluwadarasimi/
    ###  Twitter  --- https://twitter.com/Oluwapemzzy16
-   ### Tiktok   --- https://www.tiktok.com/@dev_oluwapelumi?lang=en
-   ### GitHub   --- https://github.com/DevOluwapelumi
-   ### DEV      --- https://dev.to/devoluwapelumi
-   ### Call     --- +234 704 714 2093 
-   ### E-mail   --- victoroluwadarasimi16@gmail.com
+   ###  Tiktok   --- https://www.tiktok.com/@dev_oluwapelumi?lang=en
+   ###  GitHub   --- https://github.com/DevOluwapelumi
+   ###  DEV      --- https://dev.to/devoluwapelumi
+   ###  Call     --- +234 704 714 2093 
+   ###  E-mail   --- victoroluwadarasimi16@gmail.com
 
       #Coding
       #Collaboration
