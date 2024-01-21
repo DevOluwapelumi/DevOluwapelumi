@@ -3,6 +3,7 @@
    ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevOluwapelumi&show_icons=true&theme=dark)
    
 </div>
+
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
    <h3 align="left">Languages and Tools:</h3>
