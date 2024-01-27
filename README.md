@@ -93,7 +93,7 @@
           For every project's a legacy we'll leave behind,
           A testament to human potential, in every design.
   
- ### 📫 How to reach me 👇👇👇...
+ ### 📫 Reach me below 👇👇👇...
  
    ###  Linktree --- https://linktr.ee/oluwapelumi16
    ###  Facebook --- https://web.facebook.com/profile.php?id=100077634472104
