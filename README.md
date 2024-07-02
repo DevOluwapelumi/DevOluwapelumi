@@ -11,13 +11,6 @@ Hello, I'm Victor Oluwapelumi, a versatile tech enthusiast who is passionate abo
 - 💼 I'm available for freelance projects.
 - 🗣️ Interested in roles such as Software Engineer and Frontend Engineer.
 
-
-<div align="center">
-
-   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevOluwapelumi&show_icons=true&theme=transparent)
-   
-</div>
-
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  
