@@ -4,7 +4,14 @@ Hello, I'm Victor Oluwapelumi, a versatile tech enthusiast who is passionate abo
 - Frontend development
 - Backend development
 - Full stack development
-  
+
+### ⚡️ Brief Introduction
+
+- 🌱 I'm currently seeking full-time opportunities.
+- 💼 I'm available for freelance projects.
+- 🗣️ Interested in roles such as Software Engineer and Frontend Engineer.
+
+
 <div align="center">
 
    ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevOluwapelumi&show_icons=true&theme=transparent)
