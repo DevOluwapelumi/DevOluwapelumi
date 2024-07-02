@@ -38,10 +38,12 @@ Hello, I'm Victor Oluwapelumi, a versatile tech enthusiast who is passionate abo
 </div>
 
   
- ### 📫 Reach me below 👇👇👇...
+ ### 📫🤝🏻 Reach me, Connect, Follow, Subscribe below 👇👇👇...
  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-oluwadarasimi/)
+[![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@victoroluwadarasimi16)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Dev_OluwaPelumi)
    ###  WhatsApp --- https://wa.me/+2347047142093
-   ###  LinkedIn --- https://www.linkedin.com/in/victor-oluwadarasimi/
    ###  Twitter  --- https://twitter.com/Oluwapemzzy16
    ###  Call     --- +234 704 714 2093 
    ###  E-mail   --- victoroluwadarasimi16@gmail.com
