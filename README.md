@@ -63,6 +63,10 @@ Hello, I'm Victor Oluwapelumi, a versatile tech enthusiast who is passionate abo
 [![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@victoroluwadarasimi16)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Dev_OluwaPelumi)
 
+![](https://komarev.com/ghpvc/?username=DevOluwapelumi) 
+
+[![wakatime](https://wakatime.com/badge/user/dd549cb0-5947-4d73-8fa8-f67b6699e610.svg?style=for-the-badge)](https://wakatime.com/@dd549cb0-5947-4d73-8fa8-f67b6699e610)
+
   
 <!---
 DevOluwapelumi/DevOluwapelumi is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
