@@ -1,24 +1,27 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+Welcome+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-Hello, I'm Victor Oluwapelumi, a versatile tech enthusiast who is passionate about:
-- Frontend development
-- Backend development
-- Full stack development
+Hey there, I’m Victor Oluwapelumi, a tech enthusiast with a flair for all things development! From crafting stunning frontends🎨 to building robust backends🔧, I thrive as a full-stack wizard🧙‍♂️. Here’s the scoop:  
 
-### ⚡️ Brief Introduction
+⚡️ Currently seeking full-time role opportunities  
+💼 Open for freelance projects  
+🗣️ Interested in roles like Software Engineer and Frontend Engineer  
 
-- 🌱 I'm currently seeking full-time opportunities.
-- 💼 I'm available for freelance projects.
-- 🗣️ Interested in roles such as Software Engineer and Frontend Engineer.
+Let’s build something amazing together! 🚀
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+
+<div align="center">
+ 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOluwapelumi&layout=compact&langs_count=10&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
+   
+</div>
  
    <h3 align="center">Languages and Tools:</h3>
    
 ### 💻 Languages, Frameworks, Tools
 
-<p align="left" float="left"> 
+<p align="left" float="left">
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
@@ -47,12 +50,6 @@ Hello, I'm Victor Oluwapelumi, a versatile tech enthusiast who is passionate abo
 <div align="center">
  
    ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevOluwapelumi&show_icons=true&theme=transparent)
-   
-</div>
-
-<div align="center">
- 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOluwapelumi&layout=compact&langs_count=10&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
    
 </div>
 
