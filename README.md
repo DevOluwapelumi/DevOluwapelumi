@@ -17,7 +17,29 @@ Let’s build something amazing together! 🚀
    
 </div>
  
-   <h3 align="center">Languages and Tools:</h3>
+</p>
+
+<div align="center">
+ 
+   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevOluwapelumi&show_icons=true&theme=transparent)
+   
+</div>
+
+  
+ ### 📫🤝🏻 Reach me, Connect, Follow, Subscribe below 👇👇👇...
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-oluwadarasimi/)
+[![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@victoroluwadarasimi16)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Dev_OluwaPelumi)
+
+![](https://komarev.com/ghpvc/?username=DevOluwapelumi) 
+
+[![wakatime](https://wakatime.com/badge/user/dd549cb0-5947-4d73-8fa8-f67b6699e610.svg?style=for-the-badge)](https://wakatime.com/@dd549cb0-5947-4d73-8fa8-f67b6699e610)
+
+  
+<!---
+
+  <h3 align="center">Languages and Tools:</h3>
    
 ### 💻 Languages, Frameworks, Tools
 
@@ -44,28 +66,7 @@ Let’s build something amazing together! 🚀
 <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="flutter" width="40" height="40"/> </a></p>
 
  <h2 align="center"> @Multi~Tech Media</h2>
- 
-</p>
 
-<div align="center">
- 
-   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevOluwapelumi&show_icons=true&theme=transparent)
-   
-</div>
-
-  
- ### 📫🤝🏻 Reach me, Connect, Follow, Subscribe below 👇👇👇...
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-oluwadarasimi/)
-[![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@victoroluwadarasimi16)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Dev_OluwaPelumi)
-
-![](https://komarev.com/ghpvc/?username=DevOluwapelumi) 
-
-[![wakatime](https://wakatime.com/badge/user/dd549cb0-5947-4d73-8fa8-f67b6699e610.svg?style=for-the-badge)](https://wakatime.com/@dd549cb0-5947-4d73-8fa8-f67b6699e610)
-
-  
-<!---
 DevOluwapelumi/DevOluwapelumi is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 You can view the `README.md` on your GitHub profile by clicking the Preview link.
