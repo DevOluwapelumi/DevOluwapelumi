@@ -37,7 +37,9 @@ Let’s build something amazing together! 🚀
 
 [![wakatime](https://wakatime.com/badge/user/dd549cb0-5947-4d73-8fa8-f67b6699e610.svg?style=for-the-badge)](https://wakatime.com/@dd549cb0-5947-4d73-8fa8-f67b6699e610)
 
-  
+ <a href="https://wakatime.com/@018df54b-f0d9-48e7-a126-63c5cc6147de"><img src="https://wakatime.com/badge/user/018df54b-f0d9-48e7-a126-63c5cc6147de.svg" alt="Total time coded since Feb 29 2024" /></a>
+
+ 
 <!---
 
   <h3 align="center">Languages and Tools:</h3>
