@@ -10,20 +10,21 @@ Let’s build something amazing together! 🚀
 
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
-
-<div align="center">
- 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevOluwapelumi&layout=compact&langs_count=10&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
-   
-</div>
- 
 </p>
 
-<div align="center">
- 
-   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevOluwapelumi&show_icons=true&theme=transparent)
-   
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOluwapelumi&layout=compact&langs_count=10&theme=moltack" alt="Top Langs" />
+      </a>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=DevOluwapelumi&show_icons=true&theme=transparent" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
+
 
   
  ### 📫🤝🏻 Reach me, Connect, Follow, Subscribe below 👇👇👇...
