@@ -8,6 +8,17 @@ Hey there, I’m Victor Oluwapelumi, a tech enthusiast with a flair for all thin
 
 Let’s build something amazing together! 🚀
 
+
+ ### 📫🤝🏻 Reach me, Connect, Follow, Subscribe below 👇👇👇...
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-oluwadarasimi/)
+[![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@victoroluwadarasimi16)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Dev_OluwaPelumi)
+
+![](https://komarev.com/ghpvc/?username=DevOluwapelumi) 
+
+[![wakatime](https://wakatime.com/badge/user/018df54b-f0d9-48e7-a126-63c5cc6147de.svg?style=for-the-badge)](https://wakatime.com/@018df54b-f0d9-48e7-a126-63c5cc6147de)
+
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
 </p>
@@ -24,18 +35,6 @@ Let’s build something amazing together! 🚀
     </td>
   </tr>
 </table>
-
-
-  
- ### 📫🤝🏻 Reach me, Connect, Follow, Subscribe below 👇👇👇...
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-oluwadarasimi/)
-[![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@victoroluwadarasimi16)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Dev_OluwaPelumi)
-
-![](https://komarev.com/ghpvc/?username=DevOluwapelumi) 
-
-[![wakatime](https://wakatime.com/badge/user/018df54b-f0d9-48e7-a126-63c5cc6147de.svg?style=for-the-badge)](https://wakatime.com/@018df54b-f0d9-48e7-a126-63c5cc6147de)
 
  
 <!---
