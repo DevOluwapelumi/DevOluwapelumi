@@ -8,7 +8,6 @@ Hey there, I’m Victor Oluwapelumi, a tech enthusiast with a flair for all thin
 
 Let’s build something amazing together! 🚀
 
-
  ### 📫🤝🏻 Reach me, Connect, Follow, Subscribe below 👇👇👇...
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-oluwadarasimi/)
