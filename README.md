@@ -8,7 +8,7 @@
 
 Let’s build something amazing together! 🚀
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DevOluwapelumi" alt="DevOluwapelumi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DevOluwapelumi" alt="DevOluwapelumi"/></a></p>
 
  ### 📫🤝🏻 Reach me, Connect, Follow, Subscribe below 👇👇👇...
  
