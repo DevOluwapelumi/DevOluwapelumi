@@ -8,6 +8,10 @@
 
 Let’s build something amazing together! 🚀
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedshahmirsultan&label=Profile%20views&color=0e75b6&style=flat" alt="syedshahmirsultan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syedshahmirsultan" alt="syedshahmirsultan" /></a> </p>
+
  ### 📫🤝🏻 Reach me, Connect, Follow, Subscribe below 👇👇👇...
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-oluwadarasimi/)
