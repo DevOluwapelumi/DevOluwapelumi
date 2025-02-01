@@ -16,6 +16,7 @@ Let’s build something amazing together! 🚀
 [![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@victoroluwadarasimi16)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Dev_OluwaPelumi)
 
+
 ![](https://komarev.com/ghpvc/?username=DevOluwapelumi) 
 
 [![wakatime](https://wakatime.com/badge/user/018df54b-f0d9-48e7-a126-63c5cc6147de.svg?style=for-the-badge)](https://wakatime.com/@018df54b-f0d9-48e7-a126-63c5cc6147de)
