@@ -24,7 +24,7 @@ Let’s build something amazing together! 🚀
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
 </p>
 
-   <table align="center">
+<table align="center">
      <tr>
        <td>
          <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -35,7 +35,7 @@ Let’s build something amazing together! 🚀
          <img src="https://github-readme-stats.vercel.app/api?username=DevOluwapelumi&show_icons=true&theme=transparent" alt="GitHub Stats" />
        </td>
      </tr>
-   </table>
+</table>
 
 <!---
 
