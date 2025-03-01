@@ -10,7 +10,7 @@ Let’s build something amazing together! 🚀
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DevOluwapelumi" alt="DevOluwapelumi"/></a></p>
 
- ### 📫🤝🏻 Reach me, connect, Follow, subscribe below 👇👇👇...
+ ### 📫🤝🏻 Reach me, connect, follow, subscribe below 👇👇👇...
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-oluwadarasimi/)
 [![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@victoroluwadarasimi16)
