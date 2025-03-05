@@ -4,7 +4,7 @@
 
 ⚡️ Currently seeking full-time role opportunities  
 💼 Open for freelance projects  
-🗣️ Interested in roles like Software Engineer and Frontend Engineer  
+🗣️ Interested in roles like Software Engineer and front-end engineer  
 
 Let’s build something amazing together! 🚀
 
