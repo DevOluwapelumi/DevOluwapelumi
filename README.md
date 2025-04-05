@@ -1,5 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+Welcome+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
+[![Check out my design](https://raw.githubusercontent.com/<username>/<repo>/main/assets/your-design.png)](https://www.canva.com/design/DAGjtFXwqHY/Lk4SWW9-Vb3oHkebBAqN5A/view)
+
+ Blue and White Modern Minimalist Entrepreneur LinkedIn Article Cover Image</a> by Ølüwå Dárasími
+
 <i>Hey there, I’m Victor Oluwapelumi, a tech enthusiast with a flair for all things development! From crafting stunning frontends🎨 to building robust backends🔧, I thrive as a full-stack wizard🧙‍♂️. Here’s the scoop:</i>
 
 ⚡️ Currently seeking full-time role opportunities  
