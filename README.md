@@ -2,7 +2,7 @@
 
 [![Check out my design](https://raw.githubusercontent.com/DevOluwapelumi/DevOluwapelumi/main/LinkedInCover.png)](https://www.canva.com/design/DAGjtFXwqHY/Lk4SWW9-Vb3oHkebBAqN5A/view)
 
-<i>Hey there, I’m Victor Oluwapelumi, a tech enthusiast with a flair for all things development! From crafting stunning frontends🎨 to building robust backends🔧, I thrive as a full-stack wizard🧙‍♂️. Here’s the scoop:</i>
+<i> Hey there, I’m Victor Oluwapelumi, a tech enthusiast with a flair for all things development! From crafting stunning frontends🎨 to building robust backends🔧, I thrive as a full-stack wizard🧙‍♂️. Here’s the scoop:</i>
 
 ⚡️ Currently seeking full-time role opportunities  
 💼 Open for freelance projects  
