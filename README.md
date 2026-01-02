@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+Welcome+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+Welcome+%F0%9F%91%8B%F0%9F%8F%BB)
 
 [![Check out my design](https://raw.githubusercontent.com/DevOluwapelumi/DevOluwapelumi/main/LinkedInCover.png)](https://www.canva.com/design/DAGjtFXwqHY/Lk4SWW9-Vb3oHkebBAqN5A/view)
 
@@ -10,7 +10,7 @@
 
 Let’s build something amazing together! 🚀
 
-[![wakatime 2025 stats](https://wakatime.com/a-look-back-at-2025/018df54b-f0d9-48e7-a126-63c5cc6147de/niasnfmfga)
+[![wakatime 2025 stats](https://wakatime.com/a-look-back-at-2025/018df54b-f0d9-48e7-a126-63c5cc6147de/hfuvfrkmvy)
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DevOluwapelumi" alt="DevOluwapelumi"/></a></p>
 
