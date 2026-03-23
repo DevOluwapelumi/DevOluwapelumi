@@ -4,9 +4,8 @@
 
 <i> Hey there, I’m Victor Oluwapelumi, a tech enthusiast with a flair for all things development! From crafting stunning frontends🎨 to building robust backends🔧, I thrive as a full-stack wizard🧙‍♂️. Here’s the scoop:</i>
 
-⚡️ Currently seeking full-time role opportunities  
 💼 Open for freelance projects  
-🗣️ Interested in roles like Software Engineer and front-end engineer  
+🗣️ Interested in roles like Software Engineer and front-end engineer 
 
 Let’s build something amazing together! 🚀
 
