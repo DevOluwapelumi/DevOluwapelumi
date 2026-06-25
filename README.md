@@ -9,9 +9,13 @@
 
 Let’s build something amazing together! 🚀
 
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img width="500px" src="https://wakatime.com/share/@DevOluwaPelumi/1e00bf42-f95d-4a0d-986d-542ffca04479.svg"/></a></p> 
+
+<!---
 [![wakatime 2025 stats](https://wakatime.com/a-look-back-at-2025/018df54b-f0d9-48e7-a126-63c5cc6147de/hfuvfrkmvy)
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DevOluwapelumi" alt="DevOluwapelumi"/></a></p>
+--->
 
  ### 📫🤝🏻 Reach me, connect, follow, subscribe below 👇👇👇...
 
